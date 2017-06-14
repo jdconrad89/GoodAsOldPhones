@@ -20,5 +20,7 @@ class ProductViewController: UIViewController {
         productImageView.image = #imageLiteral(resourceName: "phone-fullscreen3")
     
     }
+    @IBAction func addToCartPressed(_ sender: Any) {
+    }
 
 }
